@@ -1,1 +1,2 @@
 
+#Minhhas settings do VSCODE!
